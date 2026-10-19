@@ -30,18 +30,42 @@
 
 ---
 
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-6A5ACD?style=for-the-badge" />
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+  </a>
 </p>
 
----
+**Core Skills**
+- Programming: Python, C, Java
+- Database: SQL, MySQL, DBMS
+- Data Analytics: Excel, Exploratory Data Analysis (EDA)
+- Machine Learning: Regression, Classification, Model Evaluation
+- Data Engineering: ETL Pipelines, Data Validation
+- Tools: Git, GitHub, Jupyter Notebook, Docker
+- Web Technologies: HTML, CSS
+
 
 ### 🚀 Featured Projects
 
