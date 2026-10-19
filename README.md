@@ -67,19 +67,34 @@
 - Web Technologies: HTML, CSS
 
 
+
 ### 🚀 Featured Projects
 
-#### 📊 RetailPulse Analytics — Category Intelligence
-Analyzed retail sales trends, category performance, and
-product-level patterns using exploratory data analysis.
+#### 📊 [RetailPulse Analytics — Category Intelligence](https://github.com/NagothuVarshitha/Batch06_16SEP_Category-Intelligence-EDA_MUC01)
+Analyzed retail sales trends, category performance, and product-level patterns through exploratory data analysis.
 
-#### 🏥 Hospital Patient Care Analytics Pipeline
-Built an ETL pipeline with extraction, transformation,
-validation, and loading steps for healthcare analytics.
+**Skills:** Python | EDA | Data Visualization
 
-#### 💳 Credit Card Fraud Detection
-Explored Logistic Regression and Random Forest
-for fraud classification using machine learning.
+#### 🏥 [Hospital Patient Care Analytics Pipeline](https://github.com/Calibo353/Hospital-Patient-Care-Analytics-Pipeline_20-9-26)
+Built an ETL workflow covering data extraction, transformation, validation, and loading for healthcare analytics.
+
+**Skills:** Python | ETL | MySQL
+
+#### 📈 [Regression Analysis](https://github.com/Calibo353/Lohitha_8-10-26_-Multi-linear-regression-)
+Practiced regression modeling and explored relationships between variables.
+
+**Skills:** Python | Regression | Model Evaluation
+
+#### 📉 [Logistic Regression](https://github.com/Calibo353/Lohitha_8-10-26_Logistic-Regression)
+Explored logistic regression concepts for classification problems.
+
+**Skills:** Python | Machine Learning | Classification
+
+#### 🗄️ [SQL Assessment](https://github.com/Calibo353/MSQL-Assesment)
+Practiced SQL queries and database operations.
+
+**Skills:** SQL | MySQL | DBMS
+
 
 ---
 
